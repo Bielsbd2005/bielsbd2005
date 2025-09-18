@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Biel</h1>
 <h3 align="center">
-🎓 Computer Engineering student focused on software development and systems integration.<br>
+🎓 Computer Engineering student focused on software development<br>
 💻 Experience with Python, Flask, SQLite, and lightweight Raspberry Pi servers.<br>
-⚙️ Skilled in automation, data organization, and backend development.<br>
-📂 Building projects like habit trackers, personal dashboards, and process automation tools.<br>
+⚙️ Skilled in automation, data organization, websites, and backend development.<br>
 🚀 Passionate about clean code, efficiency, and learning new technologies.
 </h3>
 
